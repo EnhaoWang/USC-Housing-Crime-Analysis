@@ -1,0 +1,563 @@
+Name,Location,Total,Arson,Assault,Burglary,Disturbing the Peace,Drugs/Alcohol Violations,DUI,Fraud,Homicide,Motor Vehicle Theft,Robbery,Sex Crimes,Theft/Larceny,Vandalism,Vehicle Break-In/Theft,Weapons
+1000 Grand by Windsor,"1000 S Grand Ave, Los Angeles, CA 90015",263,1,32,5,0,0,0,0,0,56,19,1,83,0,66,0
+1029 S. Union Ave.,"1029 S Union Ave, Los Angeles, CA 90015",72,1,19,5,0,0,0,0,1,12,8,0,12,0,14,0
+1050 S Grand Ave Unit 705,"1050 S Grand Ave Unit 705, Los Angeles, CA 90015",240,1,32,4,0,0,0,0,0,55,13,1,70,0,64,0
+1111 Wilshire,"1111 Wilshire Blvd, Los Angeles, CA 90017",160,1,30,9,0,0,0,0,1,17,17,1,57,0,27,0
+1118 W 37th Dr,"1118 W 37th Dr, Los Angeles, CA 90007",47,0,6,3,0,0,0,0,0,13,2,0,17,0,6,0
+1133 Hope Street,"1133 S Hope St, Los Angeles, CA 90015",224,1,29,3,0,0,0,0,0,53,13,1,67,0,57,0
+1167 S Hoover St,"1167 S Hoover St, Los Angeles, CA 90006",70,0,16,11,0,0,0,0,0,12,10,0,8,0,13,0
+1207 S Serrano Ave,"1207 S Serrano Ave, Los Angeles, CA 90006",58,1,7,17,0,0,0,0,0,13,2,0,9,0,9,0
+1210 Fedora St,"1210 Fedora St, Los Angeles, CA 90006",51,0,4,23,0,0,0,0,0,6,6,0,6,0,6,0
+1222 W 39th St,"1222 W 39th St, Los Angeles, CA 90037",37,0,8,7,0,0,0,0,0,9,2,1,4,0,6,0
+1320 S St. Andrews Pl,"1320 S St. Andrews Pl, Los Angeles, CA 90019",57,3,6,10,0,0,0,0,0,11,6,0,12,0,9,0
+1333 W. 36th Pl.,"1333 W 36th Pl, Los Angeles, CA 90007",44,0,5,7,0,0,0,0,0,12,2,0,10,0,8,0
+1358 W. 36th St.,"1358 W 36th St, Los Angeles, CA 90007",41,0,5,8,0,0,0,0,0,11,1,0,8,0,8,0
+1400 Fig,"1400 S Figueroa St, Los Angeles, CA 90015",127,1,20,4,0,0,0,0,0,35,8,1,21,0,37,0
+1411 S Bonnie Brae St,"1411 S Bonnie Brae St, Los Angeles, CA 90006",46,0,11,5,0,0,0,0,0,11,6,0,4,0,9,0
+1432-1436 1/2 Constance St,"1432-1436 1/2 Constance St, Los Angeles, CA 90015",41,0,11,4,0,0,0,0,0,8,6,0,3,0,9,0
+1476 W 35th St,"1476 W 35th St, Los Angeles, CA 90018",36,0,5,6,0,0,0,0,0,10,3,0,6,0,6,0
+15 Units + 1 Non-conforming Unit,"420 S Occidental Blvd, Los Angeles, CA 90057",53,1,15,5,0,0,0,0,0,6,5,1,10,0,10,0
+1522 S Manhattan Plz,"1522 S Manhattan Plz, Los Angeles, CA 90019",45,2,5,10,0,0,0,0,0,8,3,0,9,0,8,0
+1949 Park Grove Ave.,"1949 Park Grove Ave, Los Angeles, CA 90007",45,1,9,3,0,0,0,0,0,7,6,0,12,0,7,0
+212 E 24th St,"212 E 24th St, Los Angeles, CA 90011",52,0,10,7,0,0,0,0,0,16,2,0,7,0,10,0
+2221 Western,"2221 S Western Ave, Los Angeles, CA 90018",20,0,1,1,0,0,0,0,0,6,1,1,3,0,7,0
+255 Grand,"255 S Grand Ave, Los Angeles, CA 90012",83,0,19,3,0,0,0,0,0,13,7,1,18,0,22,0
+2675 Arlington Ave,"2675 Arlington Ave, Los Angeles, CA 90018",25,0,3,0,0,0,0,0,0,11,1,1,1,0,8,0
+2783 Francis Ave,"2783-2801 Francis Ave, Los Angeles, CA 90005",21,1,1,8,0,0,0,0,0,2,1,0,5,0,3,0
+2801 Sunset Pl Unit FL15-ID702,"2801 Sunset Pl Unit FL15-ID702, Los Angeles, CA 90005",65,0,20,7,0,0,0,0,2,12,5,1,10,0,8,0
+3033 Wilshire,"3033 Wilshire Blvd, Los Angeles, CA 90010",75,0,22,9,0,0,0,0,3,12,10,1,10,0,8,0
+30Sixty,"3060 W Olympic Blvd, Los Angeles, CA 90006",59,0,5,21,0,0,0,0,0,14,3,0,8,0,8,0
+3420 12th Ave,"3420 12th Ave, Los Angeles, CA 90018",34,1,5,6,0,0,0,0,0,4,1,0,10,0,7,0
+4040 - 4060 S Hoover St,"4040-4060 S Hoover St, Los Angeles, CA 90037",30,0,11,2,0,0,0,0,0,8,3,0,3,0,3,0
+422 South Lake,"422 S Lake St, Los Angeles, CA 90057",73,0,26,9,0,0,0,0,0,8,12,0,11,0,7,0
+4mica,"751 Valencia St, Los Angeles, CA 90017",95,1,22,12,0,0,0,0,1,17,16,0,14,0,12,0
+4th & Main,"334 S Main St, Los Angeles, CA 90013",197,1,61,7,0,0,0,0,0,23,23,2,45,0,35,0
+616 Kenmore,"616 S Kenmore Ave, Los Angeles, CA 90005",75,0,20,11,0,0,0,0,2,8,10,0,13,0,11,0
+700 S. Berendo - fully renovated unit in K...,"700 S Berendo St, Los Angeles, CA 90005",77,0,21,10,0,0,0,0,2,11,12,1,11,0,9,0
+717 Olympic,"717 W Olympic Blvd, Los Angeles, CA 90015",242,1,35,7,0,0,0,0,1,44,17,0,80,0,57,0
+739 Garland Ave,"739 Garland Ave, Los Angeles, CA 90017",145,1,29,7,0,0,0,0,1,23,15,1,47,0,21,0
+820 S Wilton Pl Unit 301,"820 S Wilton Pl Unit 301, Los Angeles, CA 90005",44,1,9,7,0,0,0,0,0,9,2,0,7,0,9,0
+839 Fedora St Unit FL6-ID775,"839 Fedora St Unit FL6-ID775, Los Angeles, CA 90005",58,0,14,9,0,0,0,0,2,9,9,0,6,0,9,0
+888 at Grand Hope Park,"888 S Hope St, Los Angeles, CA 90017",256,1,32,7,0,0,0,0,0,45,20,0,92,0,59,0
+8th Street Apartments,"2933 W 8th St, Los Angeles, CA 90005",73,0,19,7,0,0,0,0,3,13,12,1,8,0,10,0
+922 W 23rd St,"922 W 23rd St, Los Angeles, CA 90007",48,0,6,3,0,0,0,0,0,9,3,0,23,0,4,0
+936 S Westmoreland Ave,"936 S Westmoreland Ave, Los Angeles, CA 90006",70,0,14,12,0,0,0,0,3,15,8,0,5,0,13,0
+951 S. Oxford - fully renovated unit in Ko...,"951 S Oxford Ave, Los Angeles, CA 90006",62,0,9,12,0,0,0,0,0,14,3,0,14,0,10,0
+970 Fedora,"970 Fedora St, Los Angeles, CA 90006",57,0,7,21,0,0,0,0,1,10,7,0,6,0,5,0
+ABY - The Abbey,"3550 W 6th St, Los Angeles, CA 90005",66,0,17,9,0,0,0,0,1,11,7,0,8,0,13,0
+APEX. The One.,"900 S Figueroa St, Los Angeles, CA 90015",250,1,36,7,0,0,0,0,1,45,20,0,80,0,60,0
+ARW - Arwyn Manor,"3835 W 8th St, LOS ANGELES, CA 90005",52,0,11,4,0,0,0,0,0,13,4,0,9,0,11,0
+AVA Little Tokyo,"236 S Los Angeles St, Los Angeles, CA 90012",165,1,55,7,0,0,0,0,0,18,19,2,32,0,31,0
+Alina,"700 W 9th St, Los Angeles, CA 90015",251,1,37,6,0,0,0,0,1,45,20,0,81,0,60,0
+Ambassador Towers,"691 Irolo St, Los Angeles, CA 90005",77,0,19,9,0,0,0,0,1,12,8,0,11,0,17,0
+Ancelle,"701 S Gramercy Dr, Los Angeles, CA 90005",47,0,13,3,0,0,0,0,0,10,4,0,8,0,9,0
+Antares,"1419 S New Hampshire Ave, Los Angeles, CA 90006",51,0,9,14,0,0,0,0,0,7,8,0,5,0,8,0
+Apartment for Rent,"1003 W 21st St, Los Angeles, CA 90007",34,0,7,3,0,0,0,0,0,8,4,0,8,0,4,0
+Apartment for Rent,"1027 Wilshire Blvd, Los Angeles, CA 90017",152,0,26,7,0,0,0,0,1,17,16,1,56,0,28,0
+Apartment for Rent,"1030 S Norton Ave, Los Angeles, CA 90019",45,3,5,10,0,0,0,0,0,8,7,0,8,0,4,0
+Apartment for Rent,"1050 Wilshire Blvd, Los Angeles, CA 90017",180,1,32,9,0,0,0,0,1,25,15,1,65,0,31,0
+Apartment for Rent,"1073 W Exposition Blvd, Los Angeles, CA 90007",50,0,6,6,0,0,0,0,0,12,2,0,15,0,9,0
+Apartment for Rent,"1100 Exposition Blvd, Los Angeles, CA 90007",43,0,5,6,0,0,0,0,0,12,2,0,10,0,8,0
+Apartment for Rent,"1100 Wilshire Blvd, Los Angeles, CA 90017",171,1,28,9,0,0,0,0,1,22,17,1,63,0,29,0
+Apartment for Rent,"1107 3rd Ave, Los Angeles, CA 90019",47,4,5,11,0,0,0,0,0,9,7,0,8,0,3,0
+Apartment for Rent,"1120 W 6th St, Los Angeles, CA 90017",112,1,28,8,0,0,0,0,1,16,14,1,26,0,17,0
+Apartment for Rent,"1124 W 49th St, Los Angeles, CA 90037",42,1,11,3,0,0,0,0,1,9,7,0,3,0,7,0
+Apartment for Rent,"1129 4th Ave, Los Angeles, CA 90019",45,4,5,10,0,0,0,0,0,8,7,0,8,0,3,0
+Apartment for Rent,"1133 S Hope St, Los Angeles, CA 90015",229,1,30,3,0,0,0,0,0,54,13,1,70,0,57,0
+Apartment for Rent,"1133 S Westmoreland Ave, Los Angeles, CA 90006",66,0,13,16,0,0,0,0,0,12,10,0,5,0,10,0
+Apartment for Rent,"1142 4th Ave, Los Angeles, CA 90019",45,4,5,10,0,0,0,0,0,8,7,0,8,0,3,0
+Apartment for Rent,"1155 S Grand Ave, Los Angeles, CA 90015",232,1,28,3,0,0,0,0,0,55,15,1,72,0,57,0
+Apartment for Rent,"1157 5th Ave, Los Angeles, CA 90019",47,4,5,9,0,0,0,0,0,9,8,0,8,0,4,0
+Apartment for Rent,"1158 W 37th St, Los Angeles, CA 90007",56,0,5,6,0,0,0,0,0,13,2,0,21,0,9,0
+Apartment for Rent,"1159 5th Ave, Los Angeles, CA 90019",45,4,5,10,0,0,0,0,0,7,8,0,8,0,3,0
+Apartment for Rent,"1159 W 36th Pl, Los Angeles, CA 90007",57,0,5,6,0,0,0,0,0,12,2,0,23,0,9,0
+Apartment for Rent,"1164 W 37th Pl, Los Angeles, CA 90007",50,0,5,6,0,0,0,0,0,12,2,0,17,0,8,0
+Apartment for Rent,"1171 W 37th Plz, Los Angeles, CA 90007",51,0,5,6,0,0,0,0,0,12,2,0,17,0,9,0
+Apartment for Rent,"1183 Rolland Curtis Pl, Los Angeles, CA 90037",41,0,8,7,0,0,0,0,0,11,2,1,5,0,7,0
+Apartment for Rent,"1184 W 30th St, Los Angeles, CA 90007",81,0,6,6,0,0,0,0,0,21,1,0,40,0,7,0
+Apartment for Rent,"1201 S Hope St, Los Angeles, CA 90015",207,1,28,3,0,0,0,0,0,49,10,1,63,0,52,0
+Apartment for Rent,"1219 W 25th St, Los Angeles, CA 90007",53,0,6,6,0,0,0,0,0,16,4,0,16,0,5,0
+Apartment for Rent,"1222 Elden Ave, Los Angeles, CA 90006",60,0,12,10,0,0,0,0,0,10,10,0,6,0,12,0
+Apartment for Rent,"1226 S Westmoreland Ave, Los Angeles, CA 90006",56,0,10,10,0,0,0,0,0,10,10,0,5,0,11,0
+Apartment for Rent,"1233 W 39th Pl, Los Angeles, CA 90037",39,1,10,6,0,0,0,0,0,9,2,1,4,0,6,0
+Apartment for Rent,"1234 Wilshire Blvd, Los Angeles, CA 90017",148,1,31,11,0,0,0,0,1,19,17,1,51,0,16,0
+Apartment for Rent,"1251 W 36th Pl, Los Angeles, CA 90007",47,0,5,9,0,0,0,0,0,12,2,0,11,0,8,0
+Apartment for Rent,"1256 W 37th St, Los Angeles, CA 90007",44,0,5,5,0,0,0,0,0,15,2,0,9,0,8,0
+Apartment for Rent,"1283 3rd Ave, Los Angeles, CA 90019",46,4,7,8,0,0,0,0,0,10,8,0,5,0,4,0
+Apartment for Rent,"1296 W 37th Pl, Los Angeles, CA 90007",45,0,5,9,0,0,0,0,0,13,2,1,7,0,8,0
+Apartment for Rent,"1310 S Wilton Pl, Los Angeles, CA 90019",53,3,5,9,0,0,0,0,0,10,4,0,12,0,10,0
+Apartment for Rent,"1314 W 22nd St, Los Angeles, CA 90007",52,0,8,5,0,0,0,0,0,15,4,0,15,0,5,0
+Apartment for Rent,"1314 W 35th Pl, Los Angeles, CA 90007",47,0,5,9,0,0,0,0,0,11,1,0,11,0,10,0
+Apartment for Rent,"1323 W 12th Pl, Los Angeles, CA 90015",77,0,19,5,0,0,0,0,1,17,8,0,12,0,15,0
+Apartment for Rent,"1324 Toberman St, Los Angeles, CA 90015",42,0,14,3,0,0,0,0,0,6,6,0,3,0,10,0
+Apartment for Rent,"1325 Hoover S St, Los Angeles, CA 90006",62,0,17,6,0,0,0,0,0,12,9,0,7,0,11,0
+Apartment for Rent,"1339 W 36th Pl, Los Angeles, CA 90007",48,0,7,9,0,0,0,0,0,12,2,0,10,0,8,0
+Apartment for Rent,"1341 S Union Ave, Los Angeles, CA 90015",46,0,13,4,0,0,0,0,0,8,7,0,3,0,11,0
+Apartment for Rent,"1343 E 33rd St, Los Angeles, CA 90011",35,0,3,1,0,0,0,0,0,9,3,0,15,0,4,0
+Apartment for Rent,"1366 W 24th St, Los Angeles, CA 90007",53,0,6,5,0,0,0,0,0,17,3,0,16,0,6,0
+Apartment for Rent,"1416 W Olympic Blvd, Los Angeles, CA 90015",89,1,20,5,0,0,0,0,1,17,11,0,18,0,16,0
+Apartment for Rent,"1421 W 35th St, Los Angeles, CA 90018",41,0,5,9,0,0,0,0,0,10,4,0,5,0,8,0
+Apartment for Rent,"1422 W 29th St, Los Angeles, CA 90007",66,0,7,4,0,0,0,0,0,17,1,0,29,0,8,0
+Apartment for Rent,"1426 W 27th St, Los Angeles, CA 90007",60,0,7,5,0,0,0,0,0,17,1,0,21,0,9,0
+Apartment for Rent,"1426 W 38th St, Los Angeles, CA 90062",34,1,9,4,0,0,0,0,0,8,3,1,4,0,4,0
+Apartment for Rent,"1431 W 36th St, Los Angeles, CA 90018",44,0,6,9,0,0,0,0,0,12,5,1,5,0,6,0
+Apartment for Rent,"147 E 36th St, Los Angeles, CA 90011",35,0,2,3,0,0,0,0,0,13,4,0,4,0,9,0
+Apartment for Rent,"1477 W 36th St, Los Angeles, CA 90018",38,0,7,9,0,0,0,0,0,11,5,1,2,0,3,0
+Apartment for Rent,"1479 W 36th St, Los Angeles, CA 90018",41,0,7,9,0,0,0,0,0,11,5,1,4,0,4,0
+Apartment for Rent,"1510 S Van Ness Ave, Los Angeles, CA 90019",51,3,6,7,0,0,0,0,0,11,4,0,11,0,9,0
+Apartment for Rent,"1515 Wilshire Blvd, Los Angeles, CA 90017",112,1,37,11,0,0,0,0,1,18,15,1,16,0,12,0
+Apartment for Rent,"1570 W 36th St, Los Angeles, CA 90018",42,0,9,8,0,0,0,0,0,10,5,1,7,0,2,0
+Apartment for Rent,"1580 W 30th St, Los Angeles, CA 90007",41,0,5,6,0,0,0,0,0,12,1,0,8,0,9,0
+Apartment for Rent,"1640 W Vernon Ave, Los Angeles, CA 90062",41,0,10,1,0,0,0,0,0,10,4,1,4,0,11,0
+Apartment for Rent,"1659 W 36th Pl, Los Angeles, CA 90018",40,0,9,8,0,0,0,0,0,9,6,1,6,0,1,0
+Apartment for Rent,"1711 S New Hampshire Ave, Los Angeles, CA 90006",42,0,9,8,0,0,0,0,0,10,7,0,3,0,5,0
+Apartment for Rent,"1720 Miramar St, Los Angeles, CA 90026",84,0,21,9,0,0,0,0,0,14,12,2,16,0,10,0
+Apartment for Rent,"1740 S New England St, Los Angeles, CA 90006",47,0,10,7,0,0,0,0,0,9,9,0,5,0,7,0
+Apartment for Rent,"17550 W 45th St, Los Angeles, CA 90062",41,0,8,1,0,0,0,0,1,10,4,1,5,0,11,0
+Apartment for Rent,"1765 W 38th St, Los Angeles, CA 90062",24,0,7,0,0,0,0,0,0,3,5,1,3,0,5,0
+Apartment for Rent,"1815 W 12th St, Los Angeles, CA 90006",70,0,17,4,0,0,0,0,0,17,9,0,8,0,15,0
+Apartment for Rent,"1817 W 12th St, Los Angeles, CA 90006",70,0,15,3,0,0,0,0,0,19,10,0,8,0,15,0
+Apartment for Rent,"1830 W Jefferson Blvd, Los Angeles, CA 90018",27,0,4,5,0,0,0,0,0,8,6,0,3,0,1,0
+Apartment for Rent,"1935 W 23rd St, Los Angeles, CA 90018",22,0,4,0,0,0,0,0,0,6,1,0,6,0,5,0
+Apartment for Rent,"2121 James M Wood Blvd, Los Angeles, CA 90006",90,0,27,6,0,0,0,0,1,18,12,0,15,0,11,0
+Apartment for Rent,"215 W 5th St, Los Angeles, CA 90013",231,1,62,11,0,0,0,0,0,27,25,2,57,0,46,0
+Apartment for Rent,"2209 Crenshaw Blvd, Los Angeles, CA 90016",22,0,5,3,0,0,0,0,0,8,0,0,3,0,3,0
+Apartment for Rent,"221 Lucas Ave, Los Angeles, CA 90026",52,0,15,5,0,0,0,0,0,14,2,3,4,0,9,0
+Apartment for Rent,"222 S Main St, Los Angeles, CA 90012",154,1,51,7,0,0,0,0,0,16,17,1,30,0,31,0
+Apartment for Rent,"2231 Ellendale Pl, Los Angeles, CA 90007",53,0,6,4,0,0,0,0,0,16,4,0,17,0,6,0
+Apartment for Rent,"225 S Grand Ave, Los Angeles, CA 90012",85,0,23,1,0,0,0,0,0,13,7,1,18,0,22,0
+Apartment for Rent,"225 S Olive St, Los Angeles, CA 90012",112,0,34,5,0,0,0,0,0,16,11,1,22,0,23,0
+Apartment for Rent,"2288 W 27th St, Los Angeles, CA 90018",25,0,3,0,0,0,0,0,0,11,1,1,1,0,8,0
+Apartment for Rent,"2331 Portland St, Los Angeles, CA 90007",50,0,5,4,0,0,0,0,0,12,3,0,21,0,5,0
+Apartment for Rent,"235 E 28th St, Los Angeles, CA 90011",43,0,7,3,0,0,0,0,0,11,3,0,8,0,11,0
+Apartment for Rent,"236 S Los Angeles St, Los Angeles, CA 90012",169,1,57,7,0,0,0,0,0,18,19,2,32,0,33,0
+Apartment for Rent,"236 W 39th St, Los Angeles, CA 90037",70,0,4,2,0,0,0,0,0,10,1,0,45,0,8,0
+Apartment for Rent,"238 E Vernon Ave, Los Angeles, CA 90011",67,0,9,2,0,0,0,0,0,12,4,1,34,0,5,0
+Apartment for Rent,"2404 5th Ave, Los Angeles, CA 90018",27,0,4,3,0,0,0,0,0,7,0,1,2,0,10,0
+Apartment for Rent,"253 S Broadway, Los Angeles, CA 90012",160,0,49,7,0,0,0,0,0,21,18,1,37,0,27,0
+Apartment for Rent,"255 S Grand Ave, Los Angeles, CA 90012",84,0,19,3,0,0,0,0,0,13,7,1,18,0,23,0
+Apartment for Rent,"257 S Spring St, Los Angeles, CA 90012",165,1,53,7,0,0,0,0,0,18,19,1,38,0,28,0
+Apartment for Rent,"2631 W 48th St, Los Angeles, CA 90043",24,0,5,3,0,0,0,0,0,9,2,0,1,0,4,0
+Apartment for Rent,"2632 Halldale Ave, Los Angeles, CA 90018",28,0,2,2,0,0,0,0,0,9,0,0,8,0,7,0
+Apartment for Rent,"2637 S Catalina St, Los Angeles, CA 90007",46,0,6,3,0,0,0,0,0,13,1,0,17,0,6,0
+Apartment for Rent,"2663 5th Ave, Los Angeles, CA 90018",25,0,2,0,0,0,0,0,0,9,0,0,2,0,12,0
+Apartment for Rent,"2684 Orchard Ave, Los Angeles, CA 90007",71,0,7,6,0,0,0,0,0,19,2,0,32,0,5,0
+Apartment for Rent,"2725 Obama Blvd, Los Angeles, CA 90018",17,1,2,3,0,0,0,0,0,9,0,0,0,0,2,0
+Apartment for Rent,"2769 James M Wood Blvd, Los Angeles, CA 90006",77,0,18,8,0,0,0,0,3,17,9,1,8,0,13,0
+Apartment for Rent,"2801 Sunset Pl, Los Angeles, CA 90005",67,0,20,7,0,0,0,0,2,12,7,1,10,0,8,0
+Apartment for Rent,"2811 Menlo Ave, Los Angeles, CA 90007",70,0,6,6,0,0,0,0,0,20,1,0,29,0,8,0
+Apartment for Rent,"2914 S Normandie Ave, Los Angeles, CA 90007",30,0,1,4,0,0,0,0,0,9,0,0,8,0,8,0
+Apartment for Rent,"2928 S Halldale Ave, Los Angeles, CA 90018",35,0,4,6,0,0,0,0,0,9,2,0,7,0,7,0
+Apartment for Rent,"2937 S Norton Ave, Los Angeles, CA 90018",24,0,6,1,0,0,0,0,0,6,0,0,1,0,10,0
+Apartment for Rent,"2953 Francis Ave, Los Angeles, CA 90005",75,0,19,11,0,0,0,0,3,11,12,1,7,0,11,0
+Apartment for Rent,"300 E 9th St, Los Angeles, CA 90015",194,2,39,7,0,0,0,0,0,41,19,0,46,0,40,0
+Apartment for Rent,"3000 Normandie Ave, Los Angeles, CA 90007",43,0,5,8,0,0,0,0,0,12,1,0,8,0,9,0
+Apartment for Rent,"3014 9th Ave, Los Angeles, CA 90018",26,1,6,1,0,0,0,0,0,10,0,0,1,0,7,0
+Apartment for Rent,"3033 Van Buren Pl, Los Angeles, CA 90007",42,0,4,7,0,0,0,0,0,9,1,0,11,0,10,0
+Apartment for Rent,"3100 S Normandie Ave, Los Angeles, CA 90007",43,0,5,8,0,0,0,0,0,13,1,0,8,0,8,0
+Apartment for Rent,"3105 S Normandie Ave, Los Angeles, CA 90007",42,0,6,8,0,0,0,0,0,11,2,0,7,0,8,0
+Apartment for Rent,"324 W 51st St, Los Angeles, CA 90037",36,0,13,2,0,0,0,0,0,10,5,0,2,0,4,0
+Apartment for Rent,"3339 W 8th St, Los Angeles, CA 90005",68,0,15,10,0,0,0,0,1,12,7,0,8,0,15,0
+Apartment for Rent,"334 S Main St, Los Angeles, CA 90013",208,1,65,8,0,0,0,0,0,24,25,2,48,0,35,0
+Apartment for Rent,"338 S Benton Way, Los Angeles, CA 90057",52,1,13,5,0,0,0,0,0,7,4,1,11,0,10,0
+Apartment for Rent,"343 E 53rd St, Los Angeles, CA 90011",26,0,7,0,0,0,0,0,0,9,2,0,1,0,7,0
+Apartment for Rent,"3480 San Marino St, Los Angeles, CA 90006",65,1,9,13,0,0,0,0,0,15,3,0,13,0,11,0
+Apartment for Rent,"3511 W 6th St, Los Angeles, CA 90020",73,0,18,11,0,0,0,0,1,11,8,0,10,0,14,0
+Apartment for Rent,"3520 W 39th St, Los Angeles, CA 90008",38,0,6,5,0,0,0,0,0,6,4,0,12,0,5,0
+Apartment for Rent,"3540 Wilshire Blvd, Los Angeles, CA 90010",74,0,18,9,0,0,0,0,1,11,8,0,11,0,16,0
+Apartment for Rent,"3616 W Adams Blvd, Los Angeles, CA 90018",31,0,4,0,0,0,0,0,0,10,0,0,2,0,15,0
+Apartment for Rent,"3711 Halldale Ave, Los Angeles, CA 90018",43,0,9,9,0,0,0,0,0,12,4,1,5,0,3,0
+Apartment for Rent,"3881 S Gramercy Pl, Los Angeles, CA 90062",26,0,8,0,0,0,0,0,0,6,2,1,4,0,5,0
+Apartment for Rent,"400 S Broadway, Los Angeles, CA 90013",192,1,58,8,0,0,0,0,0,23,23,1,43,0,35,0
+Apartment for Rent,"4005 W 28th St, Los Angeles, CA 90018",24,0,5,1,0,0,0,0,0,8,0,0,2,0,8,0
+Apartment for Rent,"4011 W 21st St, Los Angeles, CA 90018",26,0,5,3,0,0,0,0,0,9,0,0,1,0,8,0
+Apartment for Rent,"4012 S Normandie Ave, Los Angeles, CA 90037",32,1,9,2,0,0,0,0,0,9,1,1,5,0,4,0
+Apartment for Rent,"4058 9th Ave, Los Angeles, CA 90008",13,0,5,2,0,0,0,0,0,1,2,0,0,0,3,0
+Apartment for Rent,"4077 8th Ave, Los Angeles, CA 90008",13,0,5,2,0,0,0,0,0,1,2,0,0,0,3,0
+Apartment for Rent,"417 S Hill St, Los Angeles, CA 90013",197,0,45,9,0,0,0,0,0,23,24,1,53,0,42,0
+Apartment for Rent,"4171 Dalton Ave, Los Angeles, CA 90062",40,1,12,0,0,0,0,0,0,9,3,1,5,0,9,0
+Apartment for Rent,"4172 S Hobart Blvd, Los Angeles, CA 90062",42,1,11,0,0,0,0,0,0,11,4,1,6,0,8,0
+Apartment for Rent,"420 San Pedro St, Los Angeles, CA 90013",208,1,68,13,0,0,0,0,1,22,22,2,39,0,40,0
+Apartment for Rent,"4234 8th Ave, Los Angeles, CA 90008",11,0,3,1,0,0,0,0,0,1,2,0,2,0,2,0
+Apartment for Rent,"424 W Pico Blvd, Los Angeles, CA 90015",163,2,21,6,0,0,0,0,0,47,9,1,28,0,49,0
+Apartment for Rent,"426 E 30th St, Los Angeles, CA 90011",38,0,7,2,0,0,0,0,0,9,5,0,4,0,11,0
+Apartment for Rent,"4301 8th Ave, Los Angeles, CA 90008",13,0,4,1,0,0,0,0,0,1,2,0,3,0,2,0
+Apartment for Rent,"4308 S Normandie Ave, Los Angeles, CA 90037",31,1,9,1,0,0,0,0,1,7,2,0,2,0,8,0
+Apartment for Rent,"433 Lake S St, Los Angeles, CA 90057",76,0,27,9,0,0,0,0,0,9,11,0,13,0,7,0
+Apartment for Rent,"4335 Walton Ave, Los Angeles, CA 90037",38,0,10,3,0,0,0,0,1,7,3,0,5,0,9,0
+Apartment for Rent,"4412 8th Ave, Los Angeles, CA 90043",13,0,3,1,0,0,0,0,0,2,3,0,2,0,2,0
+Apartment for Rent,"444 S Occidental Blvd, Los Angeles, CA 90057",64,1,18,6,0,0,0,0,0,9,5,1,11,0,13,0
+Apartment for Rent,"449 E 49th St, Los Angeles, CA 90011",39,0,9,2,0,0,0,0,0,14,3,1,2,0,8,0
+Apartment for Rent,"460 S Spring St, Los Angeles, CA 90013",217,1,67,9,0,0,0,0,0,28,26,2,48,0,36,0
+Apartment for Rent,"4617 7th Ave, Los Angeles, CA 90043",12,0,4,1,0,0,0,0,0,3,1,0,2,0,1,0
+Apartment for Rent,"4626 Wall St, Los Angeles, CA 90011",71,0,12,2,0,0,0,0,0,14,4,1,33,0,5,0
+Apartment for Rent,"4726 4th Ave, Los Angeles, CA 90043",24,0,5,3,0,0,0,0,0,9,2,0,1,0,4,0
+Apartment for Rent,"496 E 41st St, Los Angeles, CA 90011",58,0,8,1,0,0,0,0,0,9,4,0,35,0,1,0
+Apartment for Rent,"553 S Coronado St, Los Angeles, CA 90057",70,0,25,4,0,0,0,0,1,6,10,1,11,0,12,0
+Apartment for Rent,"5730 S Van Ness Ave, Los Angeles, CA 90062",59,0,25,4,0,0,0,0,0,14,9,1,5,0,1,0
+Apartment for Rent,"5902 S Wilton Pl, Los Angeles, CA 90047",61,0,31,5,0,0,0,0,0,10,8,1,4,0,2,0
+Apartment for Rent,"600 W 9th St, Los Angeles, CA 90015",264,1,36,6,0,0,0,0,0,47,21,0,92,0,61,0
+Apartment for Rent,"6049 S Normandie Ave, Los Angeles, CA 90044",35,0,7,9,0,0,0,0,0,6,4,0,2,0,7,0
+Apartment for Rent,"609 S Grand Ave, Los Angeles, CA 90017",255,0,48,7,0,0,0,0,0,37,24,1,91,0,47,0
+Apartment for Rent,"612 Flower St, Los Angeles, CA 90017",230,0,39,9,0,0,0,0,0,36,20,2,80,0,44,0
+Apartment for Rent,"618 W 54th St, Los Angeles, CA 90037",48,0,17,2,0,0,0,0,0,17,6,0,4,0,2,0
+Apartment for Rent,"621 S Broadway, Los Angeles, CA 90014",257,1,67,10,0,0,0,0,0,35,24,1,69,0,50,0
+Apartment for Rent,"625 S Berendo St, Los Angeles, CA 90005",76,0,21,12,0,0,0,0,2,9,11,0,10,0,11,0
+Apartment for Rent,"630 S Kenmore Ave, Los Angeles, CA 90005",69,0,18,10,0,0,0,0,2,10,9,0,10,0,10,0
+Apartment for Rent,"639 S Spring St, Los Angeles, CA 90014",280,1,76,12,0,0,0,0,0,39,26,2,72,0,52,0
+Apartment for Rent,"685 S New Hampshire Ave, Los Angeles, CA 90005",81,0,22,11,0,0,0,0,2,11,11,1,11,0,12,0
+Apartment for Rent,"687 Shatto Pl, Los Angeles, CA 90005",76,0,22,12,0,0,0,0,2,12,10,1,9,0,8,0
+Apartment for Rent,"700 W 9th St, Los Angeles, CA 90015",255,1,38,5,0,0,0,0,1,45,20,0,85,0,60,0
+Apartment for Rent,"702 W 42nd St, Los Angeles, CA 90037",44,0,11,2,0,0,0,0,0,4,6,0,13,0,8,0
+Apartment for Rent,"709 W 48th St, Los Angeles, CA 90037",37,0,13,2,0,0,0,0,0,10,6,0,4,0,2,0
+Apartment for Rent,"722 S Manhattan Plz, Los Angeles, CA 90005",54,0,13,3,0,0,0,0,0,13,5,0,8,0,12,0
+Apartment for Rent,"727 S Coronado St, Los Angeles, CA 90057",83,0,28,6,0,0,0,0,2,12,12,1,11,0,11,0
+Apartment for Rent,"734 Catalina S St, Los Angeles, CA 90005",71,0,19,12,0,0,0,0,2,12,9,0,6,0,11,0
+Apartment for Rent,"737 S Kingsley Dr, Los Angeles, CA 90005",63,0,16,4,0,0,0,0,0,12,4,0,11,0,16,0
+Apartment for Rent,"744 Beacon Ave, Los Angeles, CA 90017",105,1,37,10,0,0,0,0,1,12,17,0,16,0,11,0
+Apartment for Rent,"746 S Los Angeles St, Los Angeles, CA 90014",241,2,71,11,0,0,0,0,0,34,26,2,57,0,38,0
+Apartment for Rent,"748 Hartford Ave, Los Angeles, CA 90017",142,1,27,10,0,0,0,0,1,23,16,1,48,0,15,0
+Apartment for Rent,"801 S Grand Ave, Los Angeles, CA 90017",268,1,43,8,0,0,0,0,0,44,22,1,94,0,55,0
+Apartment for Rent,"807 S Flower St, Los Angeles, CA 90017",241,0,38,9,0,0,0,0,1,39,20,1,84,0,49,0
+Apartment for Rent,"807 W 30th St, Los Angeles, CA 90007",70,0,6,6,0,0,0,0,0,16,1,0,36,0,5,0
+Apartment for Rent,"810 S Spring St, Los Angeles, CA 90014",263,2,65,9,0,0,0,0,0,42,26,2,63,0,54,0
+Apartment for Rent,"815 S Harvard Blvd, Los Angeles, CA 90005",65,0,14,5,0,0,0,0,0,14,4,0,11,0,17,0
+Apartment for Rent,"815 S Lake St, Los Angeles, CA 90057",100,0,33,7,0,0,0,0,1,19,11,0,15,0,14,0
+Apartment for Rent,"821 W 43rd Pl, Los Angeles, CA 90037",45,0,12,3,0,0,0,0,0,5,6,0,11,0,8,0
+Apartment for Rent,"825 S Hill St, Los Angeles, CA 90014",306,1,52,9,0,0,0,0,0,50,26,1,100,0,67,0
+Apartment for Rent,"832 S Oxford Ave, Los Angeles, CA 90005",66,0,13,8,0,0,0,0,0,15,5,0,12,0,13,0
+Apartment for Rent,"833 S Berendo St, Los Angeles, CA 90005",68,0,17,11,0,0,0,0,2,12,9,0,7,0,10,0
+Apartment for Rent,"835 S Oxford Ave, Los Angeles, CA 90005",65,0,13,9,0,0,0,0,0,15,4,0,12,0,12,0
+Apartment for Rent,"836 S Park View St, Los Angeles, CA 90057",88,0,31,6,0,0,0,0,1,16,12,0,9,0,13,0
+Apartment for Rent,"839 Fedora St, Los Angeles, CA 90005",59,0,14,9,0,0,0,0,2,9,9,0,7,0,9,0
+Apartment for Rent,"843 Irolo St, Los Angeles, CA 90005",64,0,12,9,0,0,0,0,1,16,6,0,8,0,12,0
+Apartment for Rent,"848 Irolo St, Los Angeles, CA 90005",64,0,11,10,0,0,0,0,1,16,6,0,9,0,11,0
+Apartment for Rent,"850 S Olive St, Los Angeles, CA 90014",307,1,48,8,0,0,0,0,0,52,25,1,102,0,70,0
+Apartment for Rent,"851 S Kenmore Ave, Los Angeles, CA 90005",66,0,16,9,0,0,0,0,2,11,12,0,7,0,9,0
+Apartment for Rent,"858 S Gramercy Pl, Los Angeles, CA 90005",52,2,9,8,0,0,0,0,0,12,2,0,8,0,11,0
+Apartment for Rent,"887 E 40th Pl, Los Angeles, CA 90011",50,0,6,2,0,0,0,0,0,11,6,0,17,0,8,0
+Apartment for Rent,"888 S Olive St, Los Angeles, CA 90014",307,1,48,8,0,0,0,0,0,52,25,1,102,0,70,0
+Apartment for Rent,"889 Francisco St, Los Angeles, CA 90017",215,1,37,9,0,0,0,0,1,34,17,1,72,0,43,0
+Apartment for Rent,"900 S Vermont Ave, Los Angeles, CA 90006",63,0,14,11,0,0,0,0,2,12,10,0,4,0,10,0
+Apartment for Rent,"910 W 23rd St, Los Angeles, CA 90007",40,0,6,3,0,0,0,0,0,10,3,0,14,0,4,0
+Apartment for Rent,"914 W 41st St, Los Angeles, CA 90037",44,0,10,4,0,0,0,0,0,4,4,0,13,0,9,0
+Apartment for Rent,"918 S Harvard Blvd, Los Angeles, CA 90006",61,0,7,16,0,0,0,0,0,15,3,0,8,0,12,0
+Apartment for Rent,"924 S Serrano Ave, Los Angeles, CA 90006",66,0,13,11,0,0,0,0,0,14,4,0,11,0,13,0
+Apartment for Rent,"958 Magnolia Ave, Los Angeles, CA 90006",77,0,19,8,0,0,0,0,2,19,8,0,8,0,13,0
+Apartment for Rent,"964 S Ardmore Ave, Los Angeles, CA 90006",58,0,6,20,0,0,0,0,0,14,2,0,7,0,9,0
+Ardmore,"860 S Ardmore Ave, Los Angeles, CA 90005",60,0,10,11,0,0,0,0,1,14,4,0,8,0,12,0
+Atelier,"801 S Olive St, Los Angeles, CA 90014",285,1,46,9,0,0,0,0,0,46,23,1,95,0,64,0
+Atlas House,"2500 Wilshire Blvd, Los Angeles, CA 90057",77,0,29,4,0,0,0,0,1,11,10,1,13,0,8,0
+Avalon,"1248 W Adams Blvd, Los Angeles, CA 90007",60,0,4,6,0,0,0,0,0,16,3,0,25,0,6,0
+Avana on Wilshire,"635 S Hobart Blvd, Los Angeles, CA 90005",70,0,20,4,0,0,0,0,0,12,7,0,11,0,16,0
+Avant,"1360-1500 S Figueroa St, Los Angeles, CA 90015",132,1,19,3,0,0,0,0,0,41,6,1,21,0,40,0
+Aven,"1120 S Grand Ave, Los Angeles, CA 90015",234,1,28,3,0,0,0,0,0,58,16,1,70,0,57,0
+Axis,"1200 S Broadway, Los Angeles, CA 90015",161,1,18,6,0,0,0,0,0,48,9,1,27,0,51,0
+B & B Apartments,"750 S Carondelet St, Los Angeles, CA 90057",91,0,31,5,0,0,0,0,1,15,13,1,12,0,13,0
+Be DTLA,"1120 W 6th St, Los Angeles, CA 90017",110,1,27,9,0,0,0,0,1,16,14,1,24,0,17,0
+Beaudry,"960 W 7th St, Los Angeles, CA 90017",199,0,33,9,0,0,0,0,1,32,18,1,64,0,41,0
+Berendo Terrace,"689 S Berendo St, Los Angeles, CA 90005",75,0,20,11,0,0,0,0,2,10,12,0,8,0,12,0
+Berendo Villas,"1025 S Berendo St, Los Angeles, CA 90006",56,0,8,20,0,0,0,0,0,8,9,0,5,0,6,0
+Berkshire K2LA,"685 S New Hampshire Ave, Los Angeles, CA 90005",81,0,22,11,0,0,0,0,2,11,11,1,11,0,12,0
+Bixel at Fifth,"1311 W 5th St, Los Angeles, CA 90017",81,0,24,7,0,0,0,0,0,16,9,2,10,0,13,0
+Blackstone Apartments (1 month free rent!)*,"901 S Broadway, Los Angeles, CA 90015",282,1,40,9,0,0,0,0,0,50,21,0,92,0,69,0
+Bonnie Brae Apartments,"930 S Bonnie Brae St, Los Angeles, CA 90006",84,1,23,5,0,0,0,0,1,15,12,0,16,0,11,0
+Broadway Lofts,"430 S Broadway, Los Angeles, CA 90013",217,1,59,10,0,0,0,0,0,24,25,1,55,0,42,0
+Broadway Palace,"1026 S Broadway, Los Angeles, CA 90015",199,1,24,3,0,0,0,0,0,53,11,1,45,0,61,0
+Casa Loma LA Apartments,"208-210 W 14th St, Los Angeles, CA 90015",154,2,19,8,0,0,0,0,0,46,11,1,20,0,47,0
+Catalina Apartments,"500 S Catalina St, Los Angeles, CA 90020",81,0,18,13,0,0,0,0,2,11,13,0,12,0,12,0
+Circa LA,"1200 S Figueroa St, Los Angeles, CA 90015",187,2,26,3,0,0,0,0,0,43,11,1,56,0,45,0
+City Lights on Fig,"1300 S Figueroa St, Los Angeles, CA 90015",142,2,20,5,0,0,0,0,0,42,8,1,21,0,43,0
+City Lofts,"626 S Spring St, Los Angeles, CA 90014",270,1,74,13,0,0,0,0,0,37,27,2,70,0,46,0
+City Park Apartments,"1246 W 30th St, Los Angeles, CA 90007",81,0,6,5,0,0,0,0,0,20,1,0,41,0,8,0
+City View Apartments,"1207 Miramar St, Los Angeles, CA 90026",46,0,14,2,0,0,0,0,0,13,2,2,4,0,9,0
+Commodore Regency Apartments,"685 S Lucas Ave, Los Angeles, CA 90017",168,1,30,12,0,0,0,0,1,21,17,1,60,0,25,0
+Condo for Rent,"1100 Wilshire Blvd, Los Angeles, CA 90017",171,1,28,9,0,0,0,0,1,22,17,1,63,0,29,0
+Condo for Rent,"1130 S Flower St, Los Angeles, CA 90015",222,1,29,3,0,0,0,0,0,52,14,1,67,0,55,0
+Condo for Rent,"1149 W 25th St, Los Angeles, CA 90007",60,0,7,6,0,0,0,0,0,16,4,0,22,0,5,0
+Condo for Rent,"1218 Magnolia Ave, Los Angeles, CA 90006",62,0,17,8,0,0,0,0,0,10,9,0,6,0,12,0
+Condo for Rent,"1234 Wilshire Blvd, Los Angeles, CA 90017",148,1,31,11,0,0,0,0,1,19,17,1,51,0,16,0
+Condo for Rent,"1476 W 35th St, Los Angeles, CA 90018",38,0,5,8,0,0,0,0,0,10,3,0,6,0,6,0
+Condo for Rent,"1532 4th Ave, Los Angeles, CA 90019",43,2,5,7,0,0,0,0,0,10,6,0,6,0,7,0
+Condo for Rent,"2121 James M Wood Blvd, Los Angeles, CA 90006",90,0,27,6,0,0,0,0,1,18,12,0,15,0,11,0
+Condo for Rent,"249 N Bonnie Brae St, Los Angeles, CA 90026",48,1,7,7,0,0,0,0,0,11,2,1,9,0,10,0
+Condo for Rent,"257 S Spring St, Los Angeles, CA 90012",165,1,53,7,0,0,0,0,0,18,19,1,38,0,28,0
+Condo for Rent,"2939 Leeward Ave, Los Angeles, CA 90005",71,0,23,8,0,0,0,0,3,11,10,1,7,0,8,0
+Condo for Rent,"3511 W 6th St, Los Angeles, CA 90020",74,0,18,11,0,0,0,0,1,12,8,0,10,0,14,0
+Condo for Rent,"400 S Broadway, Los Angeles, CA 90013",192,1,58,8,0,0,0,0,0,23,23,1,43,0,35,0
+Condo for Rent,"420 San Pedro St, Los Angeles, CA 90013",208,1,68,13,0,0,0,0,1,22,22,2,39,0,40,0
+Condo for Rent,"435 S La Fayette Park Pl, Los Angeles, CA 90057",55,1,15,5,0,0,0,0,0,6,5,1,9,0,13,0
+Condo for Rent,"460 S Spring St, Los Angeles, CA 90013",217,1,67,9,0,0,0,0,0,28,26,2,48,0,36,0
+Condo for Rent,"625 S Berendo St, Los Angeles, CA 90005",75,0,21,12,0,0,0,0,2,8,11,0,10,0,11,0
+Condo for Rent,"630 W 6th St, Los Angeles, CA 90017",254,0,48,8,0,0,0,0,0,39,22,2,90,0,45,0
+Condo for Rent,"746 S Los Angeles St, Los Angeles, CA 90014",239,2,69,11,0,0,0,0,0,34,26,2,57,0,38,0
+Condo for Rent,"800 W 1st St, Los Angeles, CA 90012",49,0,10,2,0,0,0,0,0,10,3,0,10,0,14,0
+Condo for Rent,"801 S Grand Ave, Los Angeles, CA 90017",268,1,43,8,0,0,0,0,0,44,22,1,94,0,55,0
+Condo for Rent,"849 S Broadway, Los Angeles, CA 90014",302,1,52,10,0,0,0,0,0,50,23,1,96,0,69,0
+Condo for Rent,"877 Francisco St, Los Angeles, CA 90017",207,1,35,10,0,0,0,0,1,33,15,1,70,0,41,0
+Condo for Rent,"889 Francisco St, Los Angeles, CA 90017",215,1,37,9,0,0,0,0,1,34,17,1,72,0,43,0
+Condo for Rent,"900 W Olympic Blvd, Los Angeles, CA 90015",183,0,30,3,0,0,0,0,1,37,12,0,60,0,40,0
+Condo for Rent,"901 S Flower St, Los Angeles, CA 90015",251,1,36,6,0,0,0,0,1,46,20,0,81,0,60,0
+Condo for Rent,"926 S Manhattan Pl, Los Angeles, CA 90019",63,1,12,11,0,0,0,0,0,15,4,0,9,0,11,0
+Crenshaw Townhouse,"1327-1329 S Crenshaw Blvd, Los Angeles, CA 90019",29,0,2,3,0,0,0,0,0,8,4,0,8,0,4,0
+Crosby,"3350 Wilshire Blvd, Los Angeles, CA 90010",66,0,19,10,0,0,0,0,2,11,7,0,9,0,8,0
+Crystal House Apartments,"1630 W 3rd St, Los Angeles, CA 90017",84,0,23,12,0,0,0,0,0,14,10,3,13,0,9,0
+DON - St. Germaine,"900 S Serrano Ave, Los Angeles, CA 90006",67,0,13,10,0,0,0,0,0,15,5,0,11,0,13,0
+Decollage Apartments,"3057-3067 W Pico Blvd, Los Angeles, CA 90006",62,0,17,9,0,0,0,0,0,10,9,0,7,0,10,0
+E on Grand,"1249 S Grand Ave, Los Angeles, CA 90015",171,2,21,6,0,0,0,0,0,51,9,1,29,0,52,0
+E on Hoover,"1157 S Hoover St, Los Angeles, CA 90006",75,0,17,11,0,0,0,0,1,13,10,0,9,0,14,0
+Eighth & Grand,"770 S Grand Ave, Los Angeles, CA 90014",264,1,44,10,0,0,0,0,0,40,23,1,88,0,57,0
+Emerald,"215 W 14th St, Los Angeles, CA 90015",165,2,21,7,0,0,0,0,0,50,11,1,25,0,48,0
+Fedora Woods,"861 Fedora, LOS ANGELES, CA 90005",55,0,12,9,0,0,0,0,1,8,9,0,7,0,9,0
+Fedora x Trilby,"826-840 S Mariposa Ave, Los Angeles, CA 90005",70,0,18,11,0,0,0,0,2,11,8,0,7,0,13,0
+G12,"1200 S Grand Ave, Los Angeles, CA 90015",225,1,26,6,0,0,0,0,0,54,12,1,69,0,56,0
+Gamer Apartment | Live Work Loft in Los An...,"443 S San Pedro St, Los Angeles, CA 90013",219,1,71,12,0,0,0,0,1,26,24,2,43,0,39,0
+Garment Lofts,"217 E 8th St, Los Angeles, CA 90014",233,2,67,11,0,0,0,0,0,34,25,2,53,0,39,0
+Gas Company Lofts,"810 S Flower St, Los Angeles, CA 90017",238,0,35,7,0,0,0,0,0,39,21,0,86,0,50,0
+Gillman Studio Apartments,"417 S Rampart Blvd, Los Angeles, CA 90057",54,1,14,5,0,0,0,0,0,8,6,1,10,0,9,0
+Gramercy Place,"1500 S Gramercy Pl, Los Angeles, CA 90019",51,3,4,8,0,0,0,0,0,9,5,0,12,0,10,0
+Grand Central Market Apartments,"307-317 S Broadway, Los Angeles, CA 90013",212,1,56,10,0,0,0,0,0,25,25,1,54,0,40,0
+HWH Luxury Living,"354 S Spring St, Los Angeles, CA 90013",194,1,61,8,0,0,0,0,0,21,23,2,46,0,32,0
+Haddon Hall,"3176-3188 W 8th St, Los Angeles, CA 90005",63,0,13,6,0,0,0,0,0,15,4,0,10,0,15,0
+Hallasan,"696 S New Hampshire Ave, Los Angeles, CA 90005",77,0,24,10,0,0,0,0,2,10,10,1,10,0,10,0
+Hartford Apartments,"744 Hartford Ave, Los Angeles, CA 90017",149,1,28,10,0,0,0,0,1,25,17,1,48,0,18,0
+Hellman Building,"411 S Main St, Los Angeles, CA 90013",213,1,67,9,0,0,0,0,0,27,26,2,48,0,33,0
+House for Rent,"1030 S St Andrews Pl, Los Angeles, CA 90019",65,2,6,17,0,0,0,0,0,16,5,0,11,0,8,0
+House for Rent,"1045 W 52nd St, Los Angeles, CA 90037",64,1,12,3,0,0,0,0,1,14,10,0,19,0,4,0
+House for Rent,"1113 4th Ave, Los Angeles, CA 90019",45,4,5,10,0,0,0,0,0,8,7,0,8,0,3,0
+House for Rent,"1179 W 28th St, Los Angeles, CA 90007",72,0,7,5,0,0,0,0,0,17,1,0,37,0,5,0
+House for Rent,"1180 W 37th Plz, Los Angeles, CA 90007",49,0,5,6,0,0,0,0,0,13,2,0,15,0,8,0
+House for Rent,"1213 W 24th St, Los Angeles, CA 90007",53,0,7,6,0,0,0,0,0,16,4,0,15,0,5,0
+House for Rent,"1222 W 35th St, Los Angeles, CA 90007",56,0,5,6,0,0,0,0,0,13,2,0,19,0,11,0
+House for Rent,"1228 Fedora St, Los Angeles, CA 90006",51,0,5,22,0,0,0,0,0,7,6,0,6,0,5,0
+House for Rent,"1231 W 36th Pl, Los Angeles, CA 90007",51,0,5,6,0,0,0,0,0,13,2,0,16,0,9,0
+House for Rent,"1237 W 25th St, Los Angeles, CA 90007",57,0,6,6,0,0,0,0,0,18,4,0,17,0,6,0
+House for Rent,"1237 W 37th Plz, Los Angeles, CA 90007",48,0,5,5,0,0,0,0,0,16,2,0,12,0,8,0
+House for Rent,"1301 W 22nd St, Los Angeles, CA 90007",50,0,8,5,0,0,0,0,0,14,4,0,14,0,5,0
+House for Rent,"1316 W 35th St, Los Angeles, CA 90007",41,0,5,7,0,0,0,0,0,9,1,0,9,0,10,0
+House for Rent,"1320 12th Ave, Los Angeles, CA 90019",31,2,4,4,0,0,0,0,0,8,6,0,2,0,5,0
+House for Rent,"1325 W Adams Blvd, Los Angeles, CA 90007",57,0,6,6,0,0,0,0,0,17,4,0,18,0,6,0
+House for Rent,"1329 W 37th Pl, Los Angeles, CA 90007",43,0,5,9,0,0,0,0,0,11,2,1,7,0,8,0
+House for Rent,"1334 W 22nd St, Los Angeles, CA 90007",51,0,7,5,0,0,0,0,0,15,4,0,15,0,5,0
+House for Rent,"1375 W 37th Dr, Los Angeles, CA 90007",40,0,5,9,0,0,0,0,0,11,3,1,4,0,7,0
+House for Rent,"1385 W 22nd St, Los Angeles, CA 90007",49,0,7,3,0,0,0,0,0,16,4,0,14,0,5,0
+House for Rent,"1430 E 20th St, Los Angeles, CA 90011",42,0,7,1,0,0,0,0,0,8,5,0,10,0,11,0
+House for Rent,"1451 W 36th Plz, Los Angeles, CA 90018",42,0,6,7,0,0,0,0,0,13,5,1,4,0,6,0
+House for Rent,"1511 4th Ave, Los Angeles, CA 90019",41,2,6,7,0,0,0,0,0,9,6,0,6,0,5,0
+House for Rent,"1513 4th Ave, Los Angeles, CA 90019",41,2,6,7,0,0,0,0,0,9,6,0,6,0,5,0
+House for Rent,"1540 W 58th St, Los Angeles, CA 90062",55,1,15,9,0,0,0,0,0,11,9,0,6,0,4,0
+House for Rent,"1651 W 37th Pl, Los Angeles, CA 90018",40,0,11,8,0,0,0,0,0,9,5,1,4,0,2,0
+House for Rent,"1826 Westmoreland Blvd, Los Angeles, CA 90006",32,0,4,4,0,0,0,0,0,6,2,0,9,0,7,0
+House for Rent,"1847 W 43rd Pl, Los Angeles, CA 90062",34,0,8,0,0,0,0,0,0,10,3,1,4,0,8,0
+House for Rent,"1859 W Slauson Ave, Los Angeles, CA 90047",54,0,21,5,0,0,0,0,0,9,9,1,5,0,4,0
+House for Rent,"1907 W 48th St, Los Angeles, CA 90062",34,0,7,2,0,0,0,0,0,8,5,0,4,0,8,0
+House for Rent,"1981 Estrella Ave, Los Angeles, CA 90007",48,1,9,3,0,0,0,0,0,11,6,0,13,0,5,0
+House for Rent,"2022 W 31st St, Los Angeles, CA 90018",29,0,4,3,0,0,0,0,0,10,4,0,4,0,4,0
+House for Rent,"2032 W 31st St, Los Angeles, CA 90018",29,0,4,3,0,0,0,0,0,10,4,0,4,0,4,0
+House for Rent,"2040 Browning Blvd, Los Angeles, CA 90062",17,0,5,1,0,0,0,0,0,4,0,1,0,0,6,0
+House for Rent,"2056 W 29th Pl, Los Angeles, CA 90018",35,0,4,5,0,0,0,0,0,10,4,0,5,0,7,0
+House for Rent,"2059 W 29th St, Los Angeles, CA 90018",34,0,4,5,0,0,0,0,0,10,3,0,5,0,7,0
+House for Rent,"2142 Portland St, Los Angeles, CA 90007",41,0,6,4,0,0,0,0,0,10,3,0,14,0,4,0
+House for Rent,"2349 W 29th Pl, Los Angeles, CA 90018",26,0,2,0,0,0,0,0,0,13,1,0,1,0,9,0
+House for Rent,"2418 W Vernon Ave, Los Angeles, CA 90043",14,0,2,1,0,0,0,0,0,5,1,0,0,0,5,0
+House for Rent,"243 E 38th St, Los Angeles, CA 90011",62,0,6,1,0,0,0,0,0,14,4,0,34,0,3,0
+House for Rent,"2534 7th Ave, Los Angeles, CA 90018",30,0,4,2,0,0,0,0,0,9,0,0,2,0,13,0
+House for Rent,"2712 Menlo Ave, Los Angeles, CA 90007",75,0,7,6,0,0,0,0,0,21,2,0,30,0,9,0
+House for Rent,"2768 Wright Ln, Los Angeles, CA 90068",1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+House for Rent,"2827 S Hoover St, Los Angeles, CA 90007",71,0,7,5,0,0,0,0,0,13,2,0,39,0,5,0
+House for Rent,"331 S Westlake Ave, Los Angeles, CA 90057",79,0,26,10,0,0,0,0,0,10,13,0,12,0,8,0
+House for Rent,"3511 S Bronson Ave, Los Angeles, CA 90018",34,1,3,6,0,0,0,0,0,3,2,0,11,0,8,0
+House for Rent,"3536 6th Ave, Los Angeles, CA 90018",17,1,2,0,0,0,0,0,0,7,1,0,1,0,5,0
+House for Rent,"3679 Halldale Ave, Los Angeles, CA 90018",44,0,9,9,0,0,0,0,0,12,5,1,5,0,3,0
+House for Rent,"3711 W Pico Blvd, Los Angeles, CA 90019",49,4,6,8,0,0,0,0,0,10,7,0,10,0,4,0
+House for Rent,"3717 Raymond Ave, Los Angeles, CA 90007",45,0,6,9,0,0,0,0,0,12,2,1,7,0,8,0
+House for Rent,"3823 S Van Ness Ave, Los Angeles, CA 90062",14,0,2,1,0,0,0,0,0,4,0,0,2,0,5,0
+House for Rent,"3878 S Harvard Blvd, Los Angeles, CA 90062",34,1,12,2,0,0,0,0,0,8,3,2,4,0,2,0
+House for Rent,"3978 Dublin Ave, Los Angeles, CA 90008",11,0,1,2,0,0,0,0,0,3,1,0,0,0,4,0
+House for Rent,"4212 S Raymond Ave, Los Angeles, CA 90037",33,0,11,3,0,0,0,0,0,5,2,0,4,0,8,0
+House for Rent,"4223 Denker Ave, Los Angeles, CA 90062",37,1,10,0,0,0,0,0,0,7,3,1,6,0,9,0
+House for Rent,"4306 5th Ave, Los Angeles, CA 90008",12,0,3,1,0,0,0,0,0,3,1,0,0,0,4,0
+House for Rent,"4344 4th Ave, Los Angeles, CA 90008",13,0,3,1,0,0,0,0,0,5,1,0,0,0,3,0
+House for Rent,"456 E 47th St, Los Angeles, CA 90011",40,0,11,2,0,0,0,0,0,14,2,1,1,0,9,0
+House for Rent,"4623 Wesley Ave, Los Angeles, CA 90037",32,0,11,2,0,0,0,0,0,6,4,0,5,0,4,0
+House for Rent,"4638 2nd Ave, Los Angeles, CA 90043",23,0,6,1,0,0,0,0,0,8,2,0,1,0,5,0
+House for Rent,"5012 3rd Ave, Los Angeles, CA 90043",22,0,6,2,0,0,0,0,0,7,2,0,1,0,4,0
+House for Rent,"5140 6th Ave, Los Angeles, CA 90043",19,0,6,2,0,0,0,0,0,8,2,0,1,0,0,0
+House for Rent,"5317 Ascot Ave, Los Angeles, CA 90011",28,0,9,1,0,0,0,0,0,10,3,0,4,0,1,0
+House for Rent,"533 E 36th St, Los Angeles, CA 90011",30,0,8,0,0,0,0,0,0,12,4,0,1,0,5,0
+House for Rent,"854 S Gramercy Pl, Los Angeles, CA 90005",52,3,9,8,0,0,0,0,0,12,2,0,7,0,11,0
+House for Rent,"860 S Wilton Pl, Los Angeles, CA 90005",51,3,9,8,0,0,0,0,0,12,3,0,7,0,9,0
+House for Rent,"942 4th Ave, Los Angeles, CA 90019",41,3,5,8,0,0,0,0,0,9,3,0,6,0,7,0
+Housing Near USC (University Southern Calif),"1211 W 37th Dr, Los Angeles, CA 90007",46,0,5,6,0,0,0,0,0,13,2,0,12,0,8,0
+Huntington Apartments,"752 S Main St, Los Angeles, CA 90014",246,2,68,11,0,0,0,0,0,38,24,2,56,0,45,0
+Icon Plaza,"3584 S Figueroa St, Los Angeles, CA 90007",53,0,1,3,0,0,0,0,0,14,2,0,27,0,6,0
+Jade Everett,"2652-2656 Ellendale Pl, Los Angeles, CA 90007",68,0,7,6,0,0,0,0,0,19,2,0,29,0,5,0
+Jasper,"2528 S Grand Ave, Los Angeles, CA 90007",53,0,9,3,0,0,0,0,0,14,4,0,16,0,7,0
+Jefferson Flats (Student Housing - Fall 2023),"1320 W Jefferson Blvd, Los Angeles, CA 90007",49,0,4,4,0,0,0,0,0,13,1,0,15,0,12,0
+Josephine DTLA,"801 S Hope St, Los Angeles, CA 90017",242,1,33,8,0,0,0,0,0,41,21,0,89,0,49,0
+Kenmore Towers,"615 S Kenmore Ave, Los Angeles, CA 90005",73,0,19,10,0,0,0,0,2,11,9,0,11,0,11,0
+Kingsley Diplomat Apartments,"730 S Kingsley Dr, Los Angeles, CA 90005",67,0,16,6,0,0,0,0,1,10,7,0,11,0,16,0
+Kodo,"2867 Sunset Pl, Los Angeles, CA 90005",69,0,22,7,0,0,0,0,3,12,7,1,10,0,7,0
+Kurve,"2801 Sunset Pl, Los Angeles, CA 90005",66,0,20,7,0,0,0,0,2,12,7,1,10,0,7,0
+LEE - Leeward Apartments,"2810 Leeward Ave, Los Angeles, CA 90005",75,0,25,5,0,0,0,0,2,13,9,1,11,0,9,0
+LEVEL - South Olive,"888 S Olive St, Los Angeles, CA 90014",302,1,46,8,0,0,0,0,0,52,25,1,99,0,70,0
+Lakeview Apartments,"500 S Lake St, Los Angeles, CA 90057",77,0,29,8,0,0,0,0,1,8,12,0,12,0,7,0
+Leimert Park,"4225 Leimert Blvd, Los Angeles, CA 90008",16,0,5,2,0,0,0,0,0,1,3,0,3,0,2,0
+Lexington at Fedora,"844-854 Fedora St, Los Angeles, CA 90005",65,0,17,8,0,0,0,0,2,10,11,0,8,0,9,0
+Lido Apartments - 1039 S Hobart,"1039 S Hobart Blvd, Los Angeles, CA 90006",63,0,3,22,0,0,0,0,0,13,3,0,13,0,9,0
+Luna,"3640 Wilshire Blvd, Los Angeles, CA 90010",68,0,17,4,0,0,0,0,0,12,6,0,11,0,18,0
+MARLEY LOFTS,"548 S Spring St, Los Angeles, CA 90013",269,1,74,12,0,0,0,0,0,36,28,2,67,0,49,0
+Magnolia Apartments,"1423 Magnolia Ave, Los Angeles, CA 90006",58,0,13,8,0,0,0,0,0,11,9,0,6,0,11,0
+Manali Residence,"742 S Westlake Ave, Los Angeles, CA 90057",93,1,31,7,0,0,0,0,1,13,15,0,17,0,8,0
+Mardi Gras Apartments,"720 W 27th St, Los Angeles, CA 90007",64,0,7,4,0,0,0,0,0,13,1,0,35,0,4,0
+Mariposa @ 5th,"520 S Mariposa Ave, Los Angeles, CA 90020",69,0,18,11,0,0,0,0,1,9,7,0,8,0,15,0
+Mariposa @ 8th,"750 S Mariposa Ave, Los Angeles, CA 90005",70,0,18,11,0,0,0,0,2,11,8,0,8,0,12,0
+Mariposa Apartments,"727 S Mariposa Ave, Los Angeles, CA 90005",69,0,18,11,0,0,0,0,1,11,8,0,7,0,13,0
+Maxfield Lofts,"819 Santee St, Los Angeles, CA 90014",228,2,61,9,0,0,0,0,0,37,24,2,49,0,44,0
+Menlo 2,"980 Menlo Ave, Los Angeles, CA 90006",63,0,10,13,0,0,0,0,1,15,9,0,4,0,11,0
+Mercantile Lofts,"620 S Main St, Los Angeles, CA 90014",258,1,77,11,0,0,0,0,0,37,26,2,60,0,44,0
+Met Lofts,"1050 S Flower St, Los Angeles, CA 90015",247,1,29,4,0,0,0,0,0,54,15,1,80,0,63,0
+Morgan Lofts Unit 306,"3324-3330 Wilshire Blvd, Los Angeles, CA 90010",70,0,20,10,0,0,0,0,2,12,7,0,9,0,10,0
+Museum Tower,"225 S Olive St, Los Angeles, CA 90012",109,0,32,5,0,0,0,0,0,16,11,1,22,0,22,0
+NRE - The Bard Apartments,"756 S Normandie Ave, Los Angeles, CA 90005",61,0,15,10,0,0,0,0,1,9,7,0,9,0,10,0
+National City Tower,"810 S Spring St, Los Angeles, CA 90014",258,2,62,9,0,0,0,0,0,42,26,2,61,0,54,0
+New Hampshire Terrace,"864 S New Hampshire, Los Angeles, CA 90005",66,0,18,11,0,0,0,0,2,10,10,0,5,0,10,0
+Next on Sixth,"620 S Virgil Ave, Los Angeles, CA 90005",71,1,21,7,0,0,0,0,1,11,7,1,12,0,10,0
+OSM USC Housing,"1239 W 30th St, Los Angeles, CA 90007",77,0,6,6,0,0,0,0,0,18,1,0,39,0,7,0
+Olive DTLA,"1213-1237 S Olive St, Los Angeles, CA 90015",238,1,32,4,0,0,0,0,0,59,14,1,70,0,57,0
+Olympic by Windsor,"936 S Olive St, Los Angeles, CA 90015",289,1,36,7,0,0,0,0,0,56,23,0,95,0,71,0
+Onyx DTLA,"424 W Pico Blvd, Los Angeles, CA 90015",160,2,21,6,0,0,0,0,0,46,9,1,26,0,49,0
+PRE - The President,"669 S Union Ave, Los Angeles, CA 90017",106,1,32,12,0,0,0,0,1,16,18,0,15,0,11,0
+Pacific Electric Lofts,"610 S Main St, Los Angeles, CA 90014",252,1,79,11,0,0,0,0,1,36,26,2,57,0,39,0
+Packard Lofts,"1000 S Hope St, Los Angeles, CA 90015",256,1,33,6,0,0,0,0,0,53,18,1,81,0,63,0
+Park Fifth,"427 W 5th St, Los Angeles, CA 90013",201,0,46,10,0,0,0,0,0,25,23,1,50,0,46,0
+Park Gramercy Apartments,"849 S Gramercy Dr, Los Angeles, CA 90005",53,0,11,9,0,0,0,0,0,11,4,0,8,0,10,0
+Park View Apartments,"511 Park View, Los Angeles, CA 90057",72,0,26,6,0,0,0,0,1,7,9,1,14,0,8,0
+Park Wilshire,"2424 Wilshire Blvd, Los Angeles, CA 90057",76,0,27,4,0,0,0,0,1,11,11,1,12,0,9,0
+Pegasus,"612 S Flower St, Los Angeles, CA 90017",227,0,38,10,0,0,0,0,0,36,20,2,77,0,44,0
+Phoenix Apartments (Brand New),"1421-1439 W Adams Blvd, Los Angeles, CA 90007",58,0,6,4,0,0,0,0,0,12,2,0,29,0,5,0
+Plaza at Lafayette,"401 S La Fayette Park Pl, Los Angeles, CA 90057",52,1,14,5,0,0,0,0,0,6,5,1,9,0,11,0
+Premiere Towers,"621 S Spring St, Los Angeles, CA 90014",271,1,75,11,0,0,0,0,0,37,27,2,70,0,48,0
+Prince Rupert Apartments,"1305 Ingraham St, Los Angeles, CA 90017",101,1,26,12,0,0,0,0,1,19,12,1,14,0,15,0
+Private Furnished Rooms - Co-Living Life,"2651 S Hobart Blvd, Los Angeles, CA 90018",24,0,5,0,0,0,0,0,0,8,1,0,5,0,5,0
+Private Suite - Co-living Life,"1430 W 37th St, Los Angeles, CA 90018",42,0,5,8,0,0,0,0,0,13,5,1,3,0,7,0
+Radius Koreatown,"680 S Berendo St, Los Angeles, CA 90005",82,0,22,12,0,0,0,0,2,10,12,1,11,0,12,0
+Renaissance Tower,"501 W Olympic Blvd, Los Angeles, CA 90015",266,1,36,6,0,0,0,0,0,54,20,0,84,0,65,0
+Rise Koreatown,"750 S Oxford Ave, Los Angeles, CA 90005",61,0,13,5,0,0,0,0,0,14,4,0,10,0,15,0
+SB Main,"111 W 7th St, Los Angeles, CA 90014",268,1,73,12,0,0,0,0,0,38,26,2,72,0,44,0
+SB Manhattan,"215 W 6th St, Los Angeles, CA 90014",264,1,72,11,0,0,0,0,0,36,27,2,66,0,49,0
+SB Spring,"650 S Spring St, Los Angeles, CA 90014",276,1,75,14,0,0,0,0,0,38,26,2,72,0,48,0
+SB Tower,"600 S Spring St, Los Angeles, CA 90014",265,1,75,12,0,0,0,0,0,37,27,2,65,0,46,0
+Santee Court,"716-718 S Los Angeles St, Los Angeles, CA 90014",240,1,69,11,0,0,0,0,0,35,26,2,58,0,38,0
+Sentral DTLA at 732 S. Spring,"732 S Spring St, Los Angeles, CA 90014",263,2,68,11,0,0,0,0,0,39,27,2,64,0,50,0
+Sentral DTLA at 755 S. Spring,"755 S Spring St, Los Angeles, CA 90014",258,2,61,11,0,0,0,0,0,40,25,2,65,0,52,0
+SevenWest,"1331 W 7th St, Los Angeles, CA 90017",98,1,23,12,0,0,0,0,1,20,12,1,14,0,14,0
+Sienna,"1011 S Serrano Ave, Los Angeles, CA 90006",56,1,4,14,0,0,0,0,0,13,3,0,12,0,9,0
+Skye at Bunker Hill,"234 S Figueroa St, Los Angeles, CA 90012",50,0,12,1,0,0,0,0,0,7,4,0,12,0,14,0
+South Kenmore Apartments,"915 S Kenmore Ave, Los Angeles, CA 90006",61,0,11,13,0,0,0,0,2,9,11,0,7,0,8,0
+South Park by Windsor,"939 S Hill St, Los Angeles, CA 90015",293,1,40,8,0,0,0,0,0,57,21,0,98,0,68,0
+South Virgil Apartments,"615 S Virgil Ave, Los Angeles, CA 90005",78,0,22,11,0,0,0,0,2,11,9,1,12,0,10,0
+Spring Arcade Building,"541 S Spring St, Los Angeles, CA 90013",263,1,72,11,0,0,0,0,0,35,25,2,67,0,50,0
+Spring Tower Lofts,"639 S Spring St, Los Angeles, CA 90014",276,1,74,12,0,0,0,0,0,39,26,2,71,0,51,0
+Sunflower Norton Apartments,"1242 S Norton Ave, Los Angeles, CA 90019",41,3,4,6,0,0,0,0,0,10,7,0,7,0,4,0
+"TENTEN DOWNTOWN 10 Weeks Free & $1,000 Back*","1027 Wilshire Blvd, Los Angeles, CA 90017",150,0,26,8,0,0,0,0,1,17,16,1,53,0,28,0
+"TENTEN WILSHIRE 10 Weeks Free + $1,000 Back*","1010 Wilshire Blvd, Los Angeles, CA 90017",171,1,30,10,0,0,0,0,1,27,14,1,57,0,30,0
+THEA at Metropolis,"1000 W 8th St, Los Angeles, CA 90017",191,1,32,11,0,0,0,0,1,30,15,1,64,0,36,0
+The 505,"505 W 31st St, Los Angeles, CA 90007",66,0,7,3,0,0,0,0,0,13,3,0,33,0,7,0
+The 900,"900 S Vermont Ave, Los Angeles, CA 90006",62,0,14,11,0,0,0,0,2,11,10,0,4,0,10,0
+The Ashby @ 8th,"808 S Hobart Blvd, Los Angeles, CA 90005",60,0,12,5,0,0,0,0,0,12,4,0,10,0,17,0
+The Audrey,"700 S Manhattan Pl, Los Angeles, CA 90005",54,0,13,3,0,0,0,0,0,13,5,0,8,0,12,0
+The BORA 3170,"3170 W Olympic Blvd, Los Angeles, CA 90006",59,0,5,17,0,0,0,0,0,13,3,0,13,0,8,0
+The Brockman Lofts,"530 W 7th St, Los Angeles, CA 90014",262,0,47,9,0,0,0,0,0,41,23,1,91,0,50,0
+The Cascades,"1136 W 36th St, Los Angeles, CA 90007",62,0,5,4,0,0,0,0,0,15,2,0,26,0,10,0
+The Chapman Flats,"756 S Broadway, Los Angeles, CA 90014",254,2,56,9,0,0,0,0,0,42,23,1,65,0,56,0
+The Charleston Apartments,"729 S Union Ave, Los Angeles, CA 90017",112,1,37,11,0,0,0,0,1,17,18,0,15,0,12,0
+The Emerson,"225 S Grand Ave, Los Angeles, CA 90012",82,0,21,1,0,0,0,0,0,13,7,1,18,0,21,0
+The Enchanted,"826 S Hobart Blvd, Los Angeles, CA 90005",62,0,12,5,0,0,0,0,0,13,4,0,10,0,18,0
+The Flat,"750 S Garland Ave, Los Angeles, CA 90017",158,1,26,11,0,0,0,0,1,28,16,1,52,0,22,0
+The Frazier,"1107 S Hobart Blvd, Los Angeles, CA 90006",57,0,2,19,0,0,0,0,0,12,3,0,12,0,9,0
+The Gemma,"3540 Wilshire Blvd, Los Angeles, CA 90010",73,0,18,9,0,0,0,0,1,10,8,0,11,0,16,0
+The Great Republic Lofts,"756 S Spring St, Los Angeles, CA 90014",260,2,68,9,0,0,0,0,0,38,27,2,64,0,50,0
+The Hana,"801 S Berendo St, Los Angeles, CA 90005",68,0,20,10,0,0,0,0,2,11,9,0,6,0,10,0
+The Harper,"800 S Harvard Blvd, Los Angeles, CA 90005",65,0,15,5,0,0,0,0,0,13,4,0,11,0,17,0
+The Irolo,"932 Irolo St, Los Angeles, CA 90006",61,0,7,17,0,0,0,0,0,14,5,0,7,0,11,0
+The Kenmore,"966 S Kenmore Ave, Los Angeles, CA 90006",60,0,9,19,0,0,0,0,1,8,10,0,6,0,7,0
+The Langham,"715 S Normandie Ave, Los Angeles, CA 90005",64,0,15,9,0,0,0,0,1,9,9,0,8,0,13,0
+The Lofts at the Security Building Apartments,"510 S Spring St, Los Angeles, CA 90013",243,1,71,9,0,0,0,0,0,32,26,2,57,0,45,0
+The Lorenzo- Student Housing near USC,"325 W Adams Blvd, Los Angeles, CA 90007",53,0,9,3,0,0,0,0,0,13,4,0,19,0,5,0
+The Medici,"725 S Bixel St, Los Angeles, CA 90017",181,1,29,11,0,0,0,0,1,29,15,1,63,0,31,0
+The Met,"950 S Flower St, Los Angeles, CA 90015",253,1,37,7,0,0,0,0,1,48,19,0,80,0,60,0
+The Mint,"1136 W 6th St, Los Angeles, CA 90017",91,1,23,6,0,0,0,0,1,14,13,2,17,0,14,0
+The Nexen,"2968 W 7th St, Los Angeles, CA 90005",74,0,25,9,0,0,0,0,3,11,10,1,8,0,7,0
+The Oxford @ Olympic,"979-985 S Oxford Ave, Los Angeles, CA 90006",58,1,4,14,0,0,0,0,0,13,3,0,12,0,11,0
+The Pearl,"687 S Hobart Blvd, Los Angeles, CA 90005",68,0,17,2,0,0,0,0,0,13,6,0,11,0,19,0
+The Piero,"609 St Paul Ave, Los Angeles, CA 90017",151,0,29,8,0,0,0,0,1,16,16,1,53,0,27,0
+The Ten Apartments,"2336 Crenshaw Blvd, Los Angeles, CA 90016",19,0,5,2,0,0,0,0,0,7,0,0,1,0,4,0
+The Thompson,"3345 Wilshire Blvd, Los Angeles, CA 90010",64,0,18,10,0,0,0,0,2,10,7,0,9,0,8,0
+The Vermont,"3150 Wilshire Blvd, Los Angeles, CA 90010",77,0,22,13,0,0,0,0,2,12,10,1,9,0,8,0
+The View,"3460 W 7th St, Los Angeles, CA 90005",71,0,18,6,0,0,0,0,1,11,8,0,10,0,17,0
+The Visconti,"1221 W 3rd St, Los Angeles, CA 90017",51,0,15,4,0,0,0,0,0,14,2,2,4,0,10,0
+The Walnut Building,"691 Mill St, Los Angeles, CA 90021",28,0,3,1,0,0,0,0,0,4,1,0,4,0,15,0
+The Wendover Apartments,"840 Hobart Blvd, Los Angeles, CA 90005",63,0,12,8,0,0,0,0,0,13,4,0,9,0,17,0
+Title Guarantee Lofts,"411 W 5th St, Los Angeles, CA 90013",211,1,49,10,0,0,0,0,0,26,25,1,53,0,46,0
+Topaz,"550 S Main St, Los Angeles, CA 90013",260,1,82,11,0,0,0,0,1,35,29,2,57,0,42,0
+Townhome for Rent,"1041 Leighton Ave, Los Angeles, CA 90037",35,0,7,6,0,0,0,0,0,8,3,0,7,0,4,0
+Townhome for Rent,"1110 W 54th St, Los Angeles, CA 90037",66,1,15,3,0,0,0,0,0,13,11,0,19,0,4,0
+Townhome for Rent,"1141 Irolo St, Los Angeles, CA 90006",57,0,3,21,0,0,0,0,0,12,3,0,12,0,6,0
+Townhome for Rent,"1200 W 24th St, Los Angeles, CA 90007",53,0,7,6,0,0,0,0,0,17,4,0,15,0,4,0
+Townhome for Rent,"1208 W 25th St, Los Angeles, CA 90007",66,0,7,6,0,0,0,0,0,20,4,0,25,0,4,0
+Townhome for Rent,"1212 Fedora St, Los Angeles, CA 90006",52,0,4,23,0,0,0,0,0,7,6,0,6,0,6,0
+Townhome for Rent,"1224 W 37th Pl, Los Angeles, CA 90007",45,0,5,5,0,0,0,0,0,13,2,0,12,0,8,0
+Townhome for Rent,"1265 W 35th St, Los Angeles, CA 90007",51,0,5,9,0,0,0,0,0,11,1,0,14,0,11,0
+Townhome for Rent,"1316 W 35th St, Los Angeles, CA 90007",41,0,5,7,0,0,0,0,0,9,1,0,9,0,10,0
+Townhome for Rent,"1339 W 35th Pl, Los Angeles, CA 90007",43,0,5,10,0,0,0,0,0,9,1,0,8,0,10,0
+Townhome for Rent,"1356 W 30th St, Los Angeles, CA 90007",60,0,6,4,0,0,0,0,0,18,1,0,22,0,9,0
+Townhome for Rent,"1360 W 24th St, Los Angeles, CA 90007",55,0,6,5,0,0,0,0,0,17,4,0,17,0,6,0
+Townhome for Rent,"1374 W 35th Pl, Los Angeles, CA 90007",41,0,5,10,0,0,0,0,0,9,1,0,7,0,9,0
+Townhome for Rent,"1432 E 20th St, Los Angeles, CA 90011",43,0,7,1,0,0,0,0,0,8,5,0,10,0,12,0
+Townhome for Rent,"1603 W 35th St, Los Angeles, CA 90018",32,0,4,8,0,0,0,0,0,6,5,0,6,0,3,0
+Townhome for Rent,"1609 W 35th Pl, Los Angeles, CA 90018",35,0,8,8,0,0,0,0,0,6,5,0,5,0,3,0
+Townhome for Rent,"1618 W 35th Pl, Los Angeles, CA 90018",36,0,8,8,0,0,0,0,0,8,5,0,5,0,2,0
+Townhome for Rent,"1621 E 46th St, Los Angeles, CA 90011",20,1,5,0,0,0,0,0,0,8,4,0,0,0,2,0
+Townhome for Rent,"1621 S Van Ness Ave, Los Angeles, CA 90019",38,3,5,6,0,0,0,0,0,8,4,0,6,0,6,0
+Townhome for Rent,"1635 E 33rd St, Los Angeles, CA 90011",13,1,3,0,0,0,0,0,0,4,2,0,1,0,2,0
+Townhome for Rent,"1637 E 33rd St, Los Angeles, CA 90011",13,1,3,0,0,0,0,0,0,4,2,0,1,0,2,0
+Townhome for Rent,"1813 W Adams Blvd, Los Angeles, CA 90018",20,0,2,0,0,0,0,0,0,7,0,0,6,0,5,0
+Townhome for Rent,"1822 Orchard Ave, Los Angeles, CA 90006",40,0,8,6,0,0,0,0,0,9,8,0,4,0,5,0
+Townhome for Rent,"1822 Orchard Ave., Los Angeles, CA 90006",40,0,8,6,0,0,0,0,0,9,8,0,4,0,5,0
+Townhome for Rent,"234 E 27th St, Los Angeles, CA 90011",46,0,7,3,0,0,0,0,0,14,4,0,7,0,11,0
+Townhome for Rent,"2663 5th Ave, Los Angeles, CA 90018",25,0,2,0,0,0,0,0,0,9,0,0,2,0,12,0
+Townhome for Rent,"2688 Orchard Ave, Los Angeles, CA 90007",70,0,7,6,0,0,0,0,0,19,1,0,32,0,5,0
+Townhome for Rent,"3011 S Budlong Ave, Los Angeles, CA 90007",51,0,4,8,0,0,0,0,0,14,1,0,13,0,11,0
+Townhome for Rent,"3505 Raymond Ave, Los Angeles, CA 90007",43,0,5,9,0,0,0,0,0,10,1,0,8,0,10,0
+Townhome for Rent,"3915 Brighton Ave, Los Angeles, CA 90062",39,1,12,3,0,0,0,0,0,11,2,1,5,0,4,0
+Townhome for Rent,"3968 Arlington Ave, Los Angeles, CA 90008",12,0,0,1,0,0,0,0,0,5,0,0,0,0,6,0
+Townhome for Rent,"3996 La Salle Ave, Los Angeles, CA 90062",42,1,14,0,0,0,0,0,0,12,1,2,7,0,5,0
+Townhome for Rent,"4151 Brighton Ave, Los Angeles, CA 90062",39,1,12,1,0,0,0,0,0,10,2,1,6,0,6,0
+Townhome for Rent,"4232 S Olive St, Los Angeles, CA 90037",75,0,9,3,0,0,0,0,0,7,4,1,43,0,8,0
+Townhome for Rent,"4306 S Normandie Ave, Los Angeles, CA 90037",31,1,9,1,0,0,0,0,1,7,2,0,2,0,8,0
+Townhome for Rent,"4416 8th Ave, Los Angeles, CA 90043",13,0,5,1,0,0,0,0,0,2,1,0,2,0,2,0
+Townhome for Rent,"4418 8th Ave, Los Angeles, CA 90008",13,0,5,1,0,0,0,0,0,2,1,0,2,0,2,0
+Townhome for Rent,"5430 S Wilton Pl, Los Angeles, CA 90062",59,0,24,4,0,0,0,0,0,13,9,1,5,0,3,0
+Townhome for Rent,"608 W 42nd St, Los Angeles, CA 90037",43,0,10,2,0,0,0,0,0,5,5,0,13,0,8,0
+Trademark,"437 S Hill St, Los Angeles, CA 90013",201,0,45,10,0,0,0,0,0,24,23,1,52,0,46,0
+Tremont Apartments,"514 S Catalina St, Los Angeles, CA 90020",82,0,19,13,0,0,0,0,2,11,13,0,12,0,12,0
+Tripalink Co-living Apartments,"1147 W 37th St, Los Angeles, CA 90007",57,0,5,6,0,0,0,0,0,14,2,0,21,0,9,0
+Tripalink-1344 W 37th Pl,"1344 W 37th Pl, Los Angeles, CA 90007",39,0,3,7,0,0,0,0,0,11,2,1,7,0,8,0
+Tuscani Villas,"369 Columbia Ave, Los Angeles, CA 90017",93,1,25,12,0,0,0,0,0,16,10,3,14,0,12,0
+Tuscany Apartments Student Living,"3770 S Figueroa St, Los Angeles, CA 90007",43,0,1,3,0,0,0,0,0,13,1,0,21,0,4,0
+University Gateway,"3335 S Figueroa St, Los Angeles, CA 90007",77,0,6,4,0,0,0,0,0,18,2,0,40,0,7,0
+Views,"723 S St Andrews Pl, Los Angeles, CA 90005",55,0,13,5,0,0,0,0,0,13,4,0,9,0,11,0
+WILCO Apartments,"2525 Wilshire Blvd, Los Angeles, CA 90057",75,0,27,3,0,0,0,0,1,10,11,1,13,0,9,0
+Watermarke Tower,"705 W 9th St, Los Angeles, CA 90015",242,1,36,8,0,0,0,0,1,40,20,0,81,0,55,0
+West 27th,"2700 S Figueroa St, Los Angeles, CA 90007",62,0,7,4,0,0,0,0,0,12,2,0,32,0,5,0
+Western Towers,"1057 S Western Ave, Los Angeles, CA 90006",59,2,5,15,0,0,0,0,0,12,4,0,11,0,10,0
+Westland @ Regina,"420 S Westlake Ave, Los Angeles, CA 90057",74,0,24,9,0,0,0,0,0,8,13,0,14,0,6,0
+Westmore on Wilshire,"3075 Wilshire Blvd, Los Angeles, CA 90010",79,0,23,12,0,0,0,0,2,11,10,1,12,0,8,0
+Westmoreland Apartments,"500 S Westmoreland Ave, Los Angeles, CA 90020",81,1,23,11,0,0,0,0,1,10,11,1,13,0,10,0
+Wilshire Valencia,"1515 Wilshire Blvd, Los Angeles, CA 90017",111,1,36,12,0,0,0,0,1,18,15,1,15,0,12,0
+Wilshire Vermont,"3183 Wilshire Blvd, Los Angeles, CA 90010",86,0,23,14,0,0,0,0,2,12,11,1,12,0,11,0
+Windsor Court,"900 S Irolo St, Los Angeles, CA 90006",60,0,10,11,0,0,0,0,1,15,5,0,8,0,10,0
+Wren,"1230 S Olive St, Los Angeles, CA 90015",179,1,25,7,0,0,0,0,0,51,10,1,35,0,49,0
+mResidences Olympic & Olive,"1001 S Olive St, Los Angeles, CA 90015",260,1,31,5,0,0,0,0,0,55,17,1,83,0,67,0
+the 314 DTLA,"601 S Broadway, Los Angeles, CA 90014",252,1,65,11,0,0,0,0,0,34,24,1,66,0,50,0
